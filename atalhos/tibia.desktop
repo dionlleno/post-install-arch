@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Tibia
+Comment=Client Tibia Linux
+Exec=/home/dionlleno/Jogos/Tibia/Tibia
+Icon=/home/dionlleno/Jogos/Tibia/tibia.ico
+Terminal=false
+Categories=Games;
